@@ -9,6 +9,11 @@
 ## 如何实现一个简单的rpc框架
 [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)
 
+## netty源码
+
+[netty 源码](https://github.com/netty/netty)
+[mini-netty](https://github.com/jackfo/mini-netty)
+
 ## tomcat服务器雏形
 [tiny-http](https://github.com/EZLippi/Tinyhttpd)
 
