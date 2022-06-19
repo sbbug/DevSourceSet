@@ -9,6 +9,9 @@
 ## 如何实现一个简单的rpc框架
 [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)
 
+## rocketMQ源码阅读笔记
+[rocketMQ阅读笔记](https://gitee.com/sbbug/rocket-mqreading)
+
 ## netty源码
 
 [netty 源码](https://github.com/netty/netty)  
