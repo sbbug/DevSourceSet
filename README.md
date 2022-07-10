@@ -23,5 +23,9 @@
 ## linux雏形
 [linux-0.01](https://github.com/zavg/linux-0.01)
 
+## xxl-job源码实现
+
+[xxl-job](https://github.com/xuxueli/xxl-job)
+
 ## 计算机图形学
 [WebGL入门](https://github.com/TaroRound/webgl-cookbook)
