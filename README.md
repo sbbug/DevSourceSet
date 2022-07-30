@@ -30,6 +30,8 @@
 ## Jedis源码
 
 [jedis](https://github.com/redis/jedis)
+[jedis源码阅读笔记](https://github.com/redis/jedis)
+
 
 ## 计算机图形学
 [WebGL入门](https://github.com/TaroRound/webgl-cookbook)
