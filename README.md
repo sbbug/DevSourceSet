@@ -30,7 +30,7 @@
 ## Jedis源码
 
 [jedis](https://github.com/redis/jedis)
-[jedis源码阅读笔记](https://github.com/redis/jedis)
+[jedis源码阅读笔记](https://gitee.com/sbbug/jedis)
 
 ## canal源码阅读
 
