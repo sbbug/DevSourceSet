@@ -25,7 +25,7 @@
 
 ## xxl-job源码实现
 
-[xxl-job](https://github.com/xuxueli/xxl-job)
+[xxl-job源码阅读笔记](https://gitee.com/sbbug/xxl-job-reading)
 
 ## Jedis源码
 
