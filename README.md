@@ -34,5 +34,9 @@
 
 ## canal源码阅读
 
+## Druid连接池源码阅读
+
+[Druid阅读笔记](https://gitee.com/sbbug/druid-reading)
+
 ## 计算机图形学
 [WebGL入门](https://github.com/TaroRound/webgl-cookbook)
