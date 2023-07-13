@@ -34,6 +34,8 @@
 
 ## canal源码阅读
 
+[canel源码阅读](https://gitee.com/sbbug/canal-reading)
+
 ## Druid连接池源码阅读
 
 [Druid阅读笔记](https://gitee.com/sbbug/druid-reading)
