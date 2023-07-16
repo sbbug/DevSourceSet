@@ -40,5 +40,8 @@
 
 [Druid阅读笔记](https://gitee.com/sbbug/druid-reading)
 
+## shardingsphere源码阅读
+[shardingsphere](https://gitee.com/sbbug/shardingsphere-reading)
+
 ## 计算机图形学
 [WebGL入门](https://github.com/TaroRound/webgl-cookbook)
