@@ -1,7 +1,7 @@
 # DevSourceSet
 源码集合
 
-整理汇聚了相关框架的源码实现，主要用来记录学习之类的。
+整理汇聚了相关框架的源码实现，主要用来记录学习。
 
 ## 如何实现一个简单的spring框架
 [mini-spring](https://github.com/DerekYRC/mini-spring)
